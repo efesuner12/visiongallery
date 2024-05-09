@@ -2,6 +2,8 @@
 VisionGallery is a web-application designed to help people organise their image stock using certain metadata, like location and datetime and additional data achieved via the use of Google Vision AI, such as detected colours, objects, labels, text and emotions.
 
 Developed as a group project @ The University of Birmingham
+
+## Contributors
 - Efe Suner
 - Paul Aldea
 - Joseph Kidger
