@@ -18,7 +18,7 @@ images stored in /mnt/visiongallery_storage/media/
 To Run Server:
 --------------
 - git clone git@github.com:efesuner12/visiongallery-master.git
-- cd visiongallery-master
+- cd visiongallery
 - python3 -m venv venv
 - source venv/bin/activate
 - pip3 install -r requirements.txt
